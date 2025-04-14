@@ -1,0 +1,15 @@
+[tool.ruff]
+lint.select = ["E", "F", "W", "C", "I", "UP", "ASYNC", "B", "A", "S", "T", "Q"]
+
+lint.ignore = ["B008", "B904", "S104", "S105"]
+
+line-length = 112
+
+exclude = ["venv", "tests"]
+
+fix = true
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
