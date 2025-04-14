@@ -1,6 +1,7 @@
 # Avito-pvz
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 Тестовое задание для стажёра Backend-направления (весенняя волна 2025)
 ## Описание
 ### [Сервис для работы с ПВЗ](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Backend/Backend-trainee-assignment-spring-2025/Backend-trainee-assignment-spring-2025.md)
