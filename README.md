@@ -1,7 +1,7 @@
 # Avito-pvz
-Тестовое задание для стажёра Backend-направления (весенняя волна 2025)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+Тестовое задание для стажёра Backend-направления (весенняя волна 2025)
 ## Описание
 ### [Сервис для работы с ПВЗ](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Backend/Backend-trainee-assignment-spring-2025/Backend-trainee-assignment-spring-2025.md)
 На ПВЗ несколько раз в день привозят новые товары, которые были заказаны через Авито. Прежде чем их отдавать заказчику, необходимо сначала проверить и внести информацию в базу. Из-за того, что ПВЗ много, а товаров ещё больше, нужно реализовать механизм, позволяющий в разрезе каждого ПВЗ увидеть, сколько раз в день к ним приезжали товары на приёмку и какие товары были получены.
